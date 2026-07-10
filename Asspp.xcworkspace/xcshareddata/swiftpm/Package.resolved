@@ -1,5 +1,5 @@
 {
-  "originHash" : "33adb6c1ab0add24d2eee32d717223f24bd55a06fa81930f542f8070784ed96f",
+  "originHash" : "86e6fc1bbfdf6ad53749b0c1f573995380840323103579bfac9d87fdc5f195ad",
   "pins" : [
     {
       "identity" : "anycodable",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Lakr233/ApplePackage",
       "state" : {
-        "revision" : "fd4860b78eb2db60a0dcbe7e5a6e4a3d2cae004e",
-        "version" : "1.2.3"
+        "revision" : "28710fec47fa89dfdedf2bf47cc284a2334ddfdc",
+        "version" : "1.2.7"
       }
     },
     {
@@ -42,8 +42,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Dean151/ButtonKit",
       "state" : {
-        "revision" : "a2cd90c52272cf23b2c5f2c701ffd194da539d9b",
-        "version" : "0.7.0"
+        "revision" : "41e29c1c51ca21b250fbf92931f103e1302fe910",
+        "version" : "0.7.1"
       }
     },
     {
@@ -101,6 +101,15 @@
       }
     },
     {
+      "identity" : "lookinside-release",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LookInsideApp/LookInside-Release.git",
+      "state" : {
+        "revision" : "7514cfa8bd24a78f74d8b982c429e7d61ef58134",
+        "version" : "0.2.2"
+      }
+    },
+    {
       "identity" : "msdisplaylink",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Lakr233/MSDisplayLink.git",
@@ -143,6 +152,15 @@
       "state" : {
         "revision" : "87e50f483c54e6efd60e885f7f5aa946cee68023",
         "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser",
+      "state" : {
+        "revision" : "6a52f3251125d74daf04fcbd5e6f08a75d074382",
+        "version" : "1.8.2"
       }
     },
     {

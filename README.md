@@ -79,6 +79,12 @@ _`ipatool-ios` and `localhost.direct` are no longer used in the project._
 
 MIT License. See [LICENSE](./LICENSE) for details.
 
+## Sponsor
+
+[LookInside](https://lookinside-app.com/) helps you inspect a running iOS or macOS app UI from your Mac.
+
 ---
 
 Copyright © 2025 Lakr Aream. All Rights Reserved.
+
+<img src="./Artworks/fable5.jpg" alt="Fable 5 Verified" width="240">
